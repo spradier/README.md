@@ -46,7 +46,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [Machine Learning courses | Course n°1](https://www.youtube.com/watch?v=YZIMDN_p3iw)
+- [Machine Learning courses | Course n°2](https://www.youtube.com/watch?v=TyHFQqz51DM)
 <!-- YOUTUBE:END -->
 
 ➡️ 
