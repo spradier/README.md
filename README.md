@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Tensorflow-f89820?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Keras-C90000?style=for-the-badge&logo=keras&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-MATLAB-F6EE0E?style=for-the-badge&logo=matlab&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-OpenCV-00F700?style=for-the-badge&logo=opencv&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Java-3c873a?style=for-the-badge&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=ffffff" />
