@@ -1,12 +1,12 @@
 ### Hi there, I'm Sébastien 👋
 
 
-## A French student in engineering school at Angers @ESEO!
+## A French Machine Learning engineer for Uber!
 
-- 🔭 I'm currently working on a GAN for new Image Generation from drawing!
-- 🌱 I’m currently Data Science, Machine Learning & Deep Learning
-- 👯 I’m looking to work in research on DL/ML
-- 🥅 2021 Goals: Get involved in more projects
+- 🧑‍🔬 I'm currently working on a bunch of projects related with ML / DL
+- 🏡 I am based in Amsterdam.
+- ♟️ I like playing chess, paddel and traveling.
+- 🥅 2022 Goals: Finishing these projects I started to communicate on them with youc!
 
 
 ### Connect with me:
@@ -43,20 +43,12 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Machine Learning courses | Course n°1](https://www.youtube.com/watch?v=YZIMDN_p3iw)
-- [Machine Learning courses | Course n°2](https://www.youtube.com/watch?v=TyHFQqz51DM)
-<!-- YOUTUBE:END -->
-
-➡️ We keep producing one course per week !
 
 ---
 
 
 
-[website]: http://sebastienpradier.com/
+[website]: http://spradier.github.io/
 [youtube]: https://www.youtube.com/channel/UCi_moQhqK8e860jIkmitm5w
 [instagram]: https://www.instagram.com/sebastienpradier/?hl=fr
 [linkedin]: https://www.linkedin.com/in/s%C3%A9bastien-pradier-9236b0156/
