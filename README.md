@@ -1,7 +1,7 @@
 ### Hi there, I'm Sébastien 👋
 
 
-## A French Machine Learning engineer for Uber!
+## A Machine Learning engineer for Uber!
 
 - 🧑‍🔬 I'm currently working on a bunch of projects related with ML / DL
 - 🏡 I am based in Amsterdam.
